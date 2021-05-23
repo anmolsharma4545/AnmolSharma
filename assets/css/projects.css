@@ -9,7 +9,7 @@ body{
     place-content: center;
     height: 100vh;
     padding: 5%;
-    background: url('./images/intro.jpg') no-repeat;
+    background: url('/images/intro.jpg') no-repeat;
     background-size: cover;
     font-family: "Source Sans Pro", sans-serif;
 }
